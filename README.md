@@ -10,8 +10,7 @@ This project analyzes and forecasts potential opportunity loss for KPBS on Blues
 - code for [opportunity loss](https://github.com/davemccampbell/Expected-Opportunity-Loss/blob/main/opportunity_loss_kpbs.ipynb)
 
 - code for [web scraping KPBS mentions on BlueSky](https://github.com/davemccampbell/Expected-Opportunity-Loss/blob/main/bluesky_query_scraping.ipynb)
-#Citations
-
+  # Citations
 - # https://www.instagram.com/kpbs/?hl=en
 - # https://www.facebook.com/KPBSSanDiego/
 - # https://www.pewresearch.org/journalism/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/
