@@ -13,6 +13,7 @@ This project analyzes and forecasts potential opportunity loss for KPBS on Blues
   # Citations
 - [KPBS followers on Instagram](https://www.instagram.com/kpbs/?hl=en)
 - [KPBS followers on Facebook](https://www.facebook.com/KPBSSanDiego/)
+- [KPBS Followers on X/ formerly Twitter. Account ceases on 04.17.23](https://twitter.com/kpbs)
 - [Pew research on news and social media 1](https://www.pewresearch.org/journalism/2020/07/30/americans-who-mainly-get-their-news-on-social-media-are-less-engaged-less-knowledgeable/)
 - [Pew research on news and social media 2](https://www.pewresearch.org/journalism/2018/09/10/news-use-across-social-media-platforms-2018/)
 - [KPBS Financials](https://cdn.kpbs.org/08/6f/bc092fe0432e85004da24995ef88/2023-kpbs-afs.pdf)
