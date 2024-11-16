@@ -1,5 +1,5 @@
 # Expected Opportunity Loss
-This project analyzes and forecasts the potential opportunity loss for KPBS on [Bluesky](https://bsky.app/), utilizing historical user data up to November 13, 2024.
+This project analyzes and forecasts the potential opportunity loss for [KPBS](https://www.kpbs.org/) on [Bluesky](https://bsky.app/), utilizing historical user data up to November 13, 2024.
 # Visuals
 - View the visual [EOL](EOL_KPBS_Bluesky.pdf)
 
