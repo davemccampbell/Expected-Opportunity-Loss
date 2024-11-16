@@ -22,3 +22,4 @@ This project analyzes and forecasts potential opportunity loss for KPBS on Blues
 - [bluesky historical data](https://www.namepepper.com/bluesky-statistics)
 - [Bluesky historical data contd.](https://en.m.wikipedia.org/wiki/File:Bluesky_Registered_Users.svg#metadata)
 - [Twitter user base](https://www.statista.com/topics/737/twitter/#topicOverview)
+- [Facebook user base](https://www.demandsage.com/facebook-statistics/#:~:text=As%20of%202024%2C%20Facebook%20has,which%20has%20194.1%20million%20users.)
