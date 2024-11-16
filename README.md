@@ -1,6 +1,6 @@
 # Expected Opportunity Loss
 This project analyzes and forecasts potential opportunity loss for KPBS on Bluesky social media using historical user data up to 11.13.2024.
-# Visual
+# Visuals
 - View the visual [EOL](EOL_KPBS_Bluesky.pdf)
 
 - View the visual [KPBS forecasted user growth](user_growth_KPBS_Bluesky.pdf)
