@@ -5,7 +5,7 @@ This project analyzes and forecasts the potential opportunity loss for [KPBS](ht
 
 - View the visual [Bluesky forecasted user growth](user_growth_KPBS_Bluesky.pdf)
 
-- View the visual [Bluesky mentions](Bluesky_Mentions_KPBS.pdf)
+- View the visual [KPBS mentions on Bluesky](Bluesky_Mentions_KPBS.pdf)
 # Code
 - code for [opportunity loss](https://github.com/davemccampbell/Expected-Opportunity-Loss/blob/main/opportunity_loss_kpbs.ipynb)
 
