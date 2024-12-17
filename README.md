@@ -21,7 +21,7 @@ This project analyzes and forecasts the potential opportunity loss for [KPBS](ht
 - [Bluesky followers doubled in the past 90 days](https://www.cnn.com/2024/11/13/tech/x-musk-bluesky-users-post-election/index.html)
 - [Bluesky user base](https://www.theverge.com/2024/11/13/24295477/bluesky-is-almost-at-15-million-users)
 - [social media overlap](https://www.warc.com/newsandopinion/news/social-media-user-overlaps-mapped/en-gb/46624)
-- [bluesky historical data](https://www.namepepper.com/bluesky-statistics)
+- [Bluesky historical data](https://www.namepepper.com/bluesky-statistics)
 - [Bluesky historical data contd.](https://en.m.wikipedia.org/wiki/File:Bluesky_Registered_Users.svg#metadata)
 - [Twitter user base](https://www.statista.com/topics/737/twitter/#topicOverview)
 - [Facebook user base](https://www.demandsage.com/facebook-statistics/#:~:text=As%20of%202024%2C%20Facebook%20has,which%20has%20194.1%20million%20users.)
