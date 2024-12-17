@@ -3,7 +3,7 @@ This project analyzes and forecasts the potential opportunity loss for [KPBS](ht
 # Visuals
 - View the visual [EOL](EOL_KPBS_Bluesky.pdf)
 
-- View the visual [KPBS forecasted user growth](user_growth_KPBS_Bluesky.pdf)
+- View the visual [Bluesky forecasted user growth](user_growth_KPBS_Bluesky.pdf)
 
 - View the visual [Bluesky mentions](Bluesky_Mentions_KPBS.pdf)
 # Code
